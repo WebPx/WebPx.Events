@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>WebPx.Events</id>
+    <version>7.0.1.0</version>
+    <authors>WebPx Technologies</authors>
+    <owners>WebPx Technologies</owners>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/WebPx/WebPx.Events/blob/master/LICENSE</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Library that provides support for an Event Drive Architecture</description>
+    <tags>EDA Events</tags>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Web" targetFramework="" />
+    </frameworkAssemblies>
+  </metadata>
+  <files>
+    <file src="bin\Release\WebPx.Events.dll" target="lib\WebPx.Events.dll" />
+  </files>
+</package>
